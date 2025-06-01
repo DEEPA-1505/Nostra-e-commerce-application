@@ -3,7 +3,7 @@
 This is a simple web-based project built using HTML, CSS, and JavaScript that integrates with the NOSTR protocol — a decentralized social networking protocol. The project demonstrates how to connect, publish, and subscribe to events on the NOSTR network using browser technologies without any centralized server.
 
 🌐 Live Demo
-Click here to view the live demo ()
+Click here to view the live demo ( https://deepa-1505.github.io/Nostra-e-commerce-application/)
 
 ✨ Features
 Connect to public NOSTR relays
